@@ -1,6 +1,6 @@
-# adviceMe
+# advicer
 
-A new Flutter project.
+A simple Flutter app that generates random adivce 
 
 ## Getting Started
 
